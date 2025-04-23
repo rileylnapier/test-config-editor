@@ -1,0 +1,19 @@
+Build a Platform:
+
+1.  CopilotKitCloud
+    - Workspace
+    - Environments (Test/Prod)
+        - Urls
+        - Configurations
+            - LLMs
+            - Prompts
+    - Audits/Logs
+    - Users (Invite/Admin)
+
+
+
+Workspace DB
+- id
+- name
+- created
+- archived
